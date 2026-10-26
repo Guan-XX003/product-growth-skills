@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Material Strategy"
+  short_description: "用编导视角做产品与投放素材策略"
+  default_prompt: "Use $product-material-strategy to analyze an app/software product, its audiences, competitors, ad-video data, and turn the findings into paid-social material strategy."
+policy:
+  allow_implicit_invocation: true

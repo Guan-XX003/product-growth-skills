@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "thread_id": "019f2723-d5fb-7e41-b574-86b647a69364",
+  "sources": [
+    {
+      "source": "/Users/growing-1/Desktop/skills&mcp/产品分析/product-material-strategy",
+      "destination": "skills/product-material-strategy",
+      "files": 4
+    },
+    {
+      "source": "/Users/growing-1/.codex/skills/product-conversion-diagnosis",
+      "destination": "skills/product-conversion-diagnosis",
+      "files": 3
+    }
+  ],
+  "files": {
+    ".gitignore": {
+      "sha256": "b2e7690864e50e47571a262dc40d02074daf2d48d812293941962360e87f3984",
+      "mode": 420
+    },
+    "MANAGEMENT.md": {
+      "sha256": "89c1de567f3e525e796fa48b9e36868e58e2a39fd075a6aae6b07e244f635894",
+      "mode": 420
+    },
+    "README.md": {
+      "sha256": "5b1e6a2d65fcc469edc56bf6109393c82693911aaac9d68b992090a4863c9751",
+      "mode": 420
+    },
+    "skills/product-conversion-diagnosis/SKILL.md": {
+      "sha256": "a38b2f03fc405f49e0e0057b0c0f0ef2f2c1ef18743de1e2f1541ef49fc13f01",
+      "mode": 420
+    },
+    "skills/product-conversion-diagnosis/agents/openai.yaml": {
+      "sha256": "55725252105c00baf22f0b2150e56ab84d40771b299e8271b65b4a1d7adf4a52",
+      "mode": 420
+    },
+    "skills/product-conversion-diagnosis/references/diagnostic-framework.md": {
+      "sha256": "c51dc359a17e85d79b6d0880fa5a6210f8aa64d884ec9bd62747b104ae6d030b",
+      "mode": 420
+    },
+    "skills/product-material-strategy/INSTALL.md": {
+      "sha256": "55b7fa86b7ff5d5e6faecb01883c544a96c21062c75a075fd838be695ef084b8",
+      "mode": 420
+    },
+    "skills/product-material-strategy/SKILL.md": {
+      "sha256": "1bcf697f9da736ecc3eef67e6933b76ae34e26bb84467e0896a409a2e310b86d",
+      "mode": 420
+    },
+    "skills/product-material-strategy/agents/openai.yaml": {
+      "sha256": "cf1c1a0d32804f0fc5760bf20af718d208d577022c0ff167fd4f3b9f8147751f",
+      "mode": 420
+    },
+    "skills/product-material-strategy/references/analysis-framework.md": {
+      "sha256": "dd85fd26a16ba7d533c1a1a35b6630e85975f5ace7388ee238b70d17c200c50e",
+      "mode": 420
+    }
+  }
+}
