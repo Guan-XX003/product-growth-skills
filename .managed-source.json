@@ -6,11 +6,6 @@
       "source": "/Users/growing-1/Desktop/skills&mcp/产品分析/product-material-strategy",
       "destination": "skills/product-material-strategy",
       "files": 4
-    },
-    {
-      "source": "/Users/growing-1/.codex/skills/product-conversion-diagnosis",
-      "destination": "skills/product-conversion-diagnosis",
-      "files": 3
     }
   ],
   "files": {
@@ -19,23 +14,11 @@
       "mode": 420
     },
     "MANAGEMENT.md": {
-      "sha256": "89c1de567f3e525e796fa48b9e36868e58e2a39fd075a6aae6b07e244f635894",
+      "sha256": "62c3cfc53184dde84d29402c7b05b978bfe8e24d080ee24838e982f48ef711b7",
       "mode": 420
     },
     "README.md": {
-      "sha256": "5b1e6a2d65fcc469edc56bf6109393c82693911aaac9d68b992090a4863c9751",
-      "mode": 420
-    },
-    "skills/product-conversion-diagnosis/SKILL.md": {
-      "sha256": "a38b2f03fc405f49e0e0057b0c0f0ef2f2c1ef18743de1e2f1541ef49fc13f01",
-      "mode": 420
-    },
-    "skills/product-conversion-diagnosis/agents/openai.yaml": {
-      "sha256": "55725252105c00baf22f0b2150e56ab84d40771b299e8271b65b4a1d7adf4a52",
-      "mode": 420
-    },
-    "skills/product-conversion-diagnosis/references/diagnostic-framework.md": {
-      "sha256": "c51dc359a17e85d79b6d0880fa5a6210f8aa64d884ec9bd62747b104ae6d030b",
+      "sha256": "23b451b579bd8132facf107a3bdb153fd2498e632d3994888ba70c0fb78cd281",
       "mode": 420
     },
     "skills/product-material-strategy/INSTALL.md": {

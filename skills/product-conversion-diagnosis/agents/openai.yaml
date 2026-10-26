@@ -1,4 +1,0 @@
-interface:
-  display_name: "产品转化诊断"
-  short_description: "系统诊断产品定位、获客承诺、体验证明、付费墙、定价与转化实验"
-  default_prompt: "Use $product-conversion-diagnosis to diagnose this product’s positioning, acquisition promise, experience, paywall, and conversion bottlenecks."
