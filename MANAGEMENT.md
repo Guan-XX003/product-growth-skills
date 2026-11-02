@@ -11,7 +11,7 @@
 
 ## 源码对应关系
 
-- `skills/product-material-strategy` ← `/Users/growing-1/Desktop/skills&mcp/产品分析/product-material-strategy`
+- `skills/product-material-strategy` ← `/Users/growing-1/Desktop/GLY/skills&mcp/产品分析/product-material-strategy`
 
 ## 版本与范围
 

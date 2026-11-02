@@ -3,7 +3,7 @@
   "thread_id": "019f2723-d5fb-7e41-b574-86b647a69364",
   "sources": [
     {
-      "source": "/Users/growing-1/Desktop/skills&mcp/产品分析/product-material-strategy",
+      "source": "/Users/growing-1/Desktop/GLY/skills&mcp/产品分析/product-material-strategy",
       "destination": "skills/product-material-strategy",
       "files": 4
     }
@@ -14,7 +14,7 @@
       "mode": 420
     },
     "MANAGEMENT.md": {
-      "sha256": "62c3cfc53184dde84d29402c7b05b978bfe8e24d080ee24838e982f48ef711b7",
+      "sha256": "be5a715505e4593aa8e0d4a1cb8d279f9515d5ed277dee411019506884e0bed1",
       "mode": 420
     },
     "README.md": {
