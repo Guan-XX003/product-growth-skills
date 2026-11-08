@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品策略 Skill 配置引导"
+  short_description: "帮助安装产品与素材策略工作流、选择研究资料并配置可选的飞书输出"
+  default_prompt: "请用 $product-growth-skills-setup 检查我的环境，并带我完成首次配置和最小用例验证。"

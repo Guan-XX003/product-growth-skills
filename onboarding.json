@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "repository": "product-growth-skills",
+  "setup_skill": "product-growth-skills-setup",
+  "skills": [
+    {
+      "name": "product-material-strategy",
+      "path": "skills/product-material-strategy"
+    },
+    {
+      "name": "product-growth-skills-setup",
+      "path": "setup-skills/product-growth-skills-setup"
+    }
+  ]
+}

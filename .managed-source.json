@@ -16,7 +16,23 @@
       "mode": 420
     },
     "README.md": {
-      "sha256": "a0daece160d3f0399536de4c5f37af6f65acc787253b6678999bb8fdf8ff3ea0",
+      "sha256": "bb7ca97728f9ba7bfabdd77f3938fb140578c50bbb05692869bed20c0b5e5bac",
+      "mode": 420
+    },
+    "onboarding.json": {
+      "sha256": "17adf2e94a30cb409a618205f6a7ffe04c16759ec276e884cd3b3955e7525989",
+      "mode": 420
+    },
+    "scripts/install_skills.py": {
+      "sha256": "2cc653ac736e90b7bf24228cbbc329b7d035bdc8c477d5068403c2c22301b0f4",
+      "mode": 493
+    },
+    "setup-skills/product-growth-skills-setup/SKILL.md": {
+      "sha256": "f292954320b30066af77b3a0b46056c5f58609fa7d8dd79f8eff605f7eecc6c3",
+      "mode": 420
+    },
+    "setup-skills/product-growth-skills-setup/agents/openai.yaml": {
+      "sha256": "adba343c77af0a99563c0056021c98e37819bbb982571e0eeed0ae21beda51bc",
       "mode": 420
     },
     "skills/product-material-strategy/INSTALL.md": {
