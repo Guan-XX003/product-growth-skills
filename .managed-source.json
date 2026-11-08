@@ -1,9 +1,7 @@
 {
   "schema": 1,
-  "thread_id": "019f2723-d5fb-7e41-b574-86b647a69364",
   "sources": [
     {
-      "source": "/Users/growing-1/Desktop/GLY/skills&mcp/产品分析/product-material-strategy",
       "destination": "skills/product-material-strategy",
       "files": 4
     }
@@ -14,11 +12,11 @@
       "mode": 420
     },
     "MANAGEMENT.md": {
-      "sha256": "be5a715505e4593aa8e0d4a1cb8d279f9515d5ed277dee411019506884e0bed1",
+      "sha256": "42dc541f392abb148772291805a19dd5f4831034038ae5862d5bc1ebef955b4f",
       "mode": 420
     },
     "README.md": {
-      "sha256": "23b451b579bd8132facf107a3bdb153fd2498e632d3994888ba70c0fb78cd281",
+      "sha256": "a0daece160d3f0399536de4c5f37af6f65acc787253b6678999bb8fdf8ff3ea0",
       "mode": 420
     },
     "skills/product-material-strategy/INSTALL.md": {
